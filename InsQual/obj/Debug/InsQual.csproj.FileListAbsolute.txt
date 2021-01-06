@@ -1,0 +1,7 @@
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\bin\Debug\InsQual.exe.config
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\bin\Debug\InsQual.exe
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\bin\Debug\InsQual.pdb
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\obj\Debug\InsQual.csprojAssemblyReference.cache
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\obj\Debug\InsQual.csproj.CoreCompileInputs.cache
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\obj\Debug\InsQual.exe
+C:\Users\slowd\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualification\InsQual\obj\Debug\InsQual.pdb

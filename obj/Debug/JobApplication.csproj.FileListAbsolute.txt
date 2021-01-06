@@ -1,0 +1,7 @@
+C:\Users\slowd\source\repos\JobApplication\bin\Debug\JobApplication.exe.config
+C:\Users\slowd\source\repos\JobApplication\bin\Debug\JobApplication.exe
+C:\Users\slowd\source\repos\JobApplication\bin\Debug\JobApplication.pdb
+C:\Users\slowd\source\repos\JobApplication\obj\Debug\JobApplication.csprojAssemblyReference.cache
+C:\Users\slowd\source\repos\JobApplication\obj\Debug\JobApplication.csproj.CoreCompileInputs.cache
+C:\Users\slowd\source\repos\JobApplication\obj\Debug\JobApplication.exe
+C:\Users\slowd\source\repos\JobApplication\obj\Debug\JobApplication.pdb
